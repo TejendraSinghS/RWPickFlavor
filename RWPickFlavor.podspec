@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # 1
   s.name         = "RWPickFlavor"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "A short description of RWPickFlavor."
 
   
@@ -11,8 +11,8 @@ Pod::Spec.new do |s|
 
 
   # 3
-  s.license      = "MIT (example)"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  #s.license      = "MIT (example)"
+  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # 4

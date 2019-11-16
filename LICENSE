@@ -7,9 +7,9 @@
 \pard\pardeftab720\sl320\partightenfactor0
 
 \f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 MIT License\
+MIT License\
 \
-Copyright (c) [2019] [JasApp]\
+Copyright (c) 2019 JasApp\
 \
 Permission is hereby granted, free of charge, to any person obtaining a copy\
 of this software and associated documentation files (the "Software"), to deal\
@@ -27,5 +27,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\
-SOFTWARE.\
-}
+SOFTWARE.}
